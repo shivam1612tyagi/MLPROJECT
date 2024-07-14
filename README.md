@@ -34,5 +34,5 @@ Star and Fork this repository for the latest update.
 
 For questions, feedback, or collaborations, feel free to reach out:
 
-- Email: your.email@example.com
+- Email: shivam1612tyagi@gmail.com
 - LinkedIn: [Shivam Tyagi](https://www.linkedin.com/in/shivam-tyagi-1aa8171a0/)
