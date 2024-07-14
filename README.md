@@ -1,6 +1,5 @@
 # Welcome! to My ML PROJECT Repo
-
-![Machine Learning Project](https://github.com/shivam1612tyagi/MLPROJECT/raw/main/project_image.png)
+![Machine Learning](https://images.unsplash.com/photo-1542831370-8f0e9b7c405e)
 
 [![GitHub stars](https://img.shields.io/github/stars/shivam1612tyagi/MLPROJECT?style=social)](https://github.com/shivam1612tyagi/MLPROJECT/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/shivam1612tyagi/MLPROJECT)](https://github.com/shivam1612tyagi/MLPROJECT/issues)
