@@ -1,0 +1,5 @@
+Generative AI (GenAI) refers to algorithms capable of generating text, images, or other media in response to prompts.
+These models, such as OpenAI's GPT or Google's BERT, are trained on massive datasets and fine-tuned for specific tasks.
+GenAI can be applied in industries like healthcare, finance, and education to automate processes and improve efficiency.
+
+In this document, we explore prompt engineering, summarization techniques, and keyword extraction strategies using LLMs.
